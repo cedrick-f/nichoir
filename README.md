@@ -6,6 +6,7 @@ Voici le projet réalisé au lycée Blaise Pascal de Clermont Ferrand, avec la p
 
 ## Préparer le Raspberry
 ### Installer Raspbian
+http://info.blaisepascal.fr/rpi-installation-de-raspbian
 
 ### Installer un serveur Web
 http://info.blaisepascal.fr/rpi-installer-un-serveur-web
