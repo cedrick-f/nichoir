@@ -13,8 +13,11 @@ http://info.blaisepascal.fr/rpi-installer-un-serveur-web
 
 A ce stade la structure du dossier du site doit être de la forme :
 `nichoir/
+
   static/
+  
   template/
+  
   nichoir.wsgi
 `
 ### Télécharger les modules de graphiques
