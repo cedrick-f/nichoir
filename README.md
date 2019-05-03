@@ -10,3 +10,15 @@ http://info.blaisepascal.fr/rpi-installation-de-raspbian
 
 ### Installer un serveur Web
 http://info.blaisepascal.fr/rpi-installer-un-serveur-web
+
+A ce stade la structure du dossier du site doit être de la forme :
+nichoir/
+  static/
+  template/
+  nichoir.wsgi
+  
+### Télécharger les modules de graphiques
+https://www.rgraph.net/
+http://dygraphs.com/
+
+Placer les contenus des téléchargements dans deux sous dossiers de 'static/' nommés 'dygraphs/' et 'RGraph'.
